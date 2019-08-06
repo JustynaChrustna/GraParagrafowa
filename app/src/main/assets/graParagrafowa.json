@@ -1,0 +1,404 @@
+{
+   "paragrafs":[
+      {
+         "paragrafNumber":1,
+         "paragrafContent":"Bierzesz głęboki oddech i kurczowo zaciskasz dłoń na przewieszonej przez ramię torbie z listami. Dziś rozniosłeś ich już prawie czterdzieści. Czekasz na odpowiedni moment, żeby opuścić swoją kryjówkę... Teraz! Wybiegasz ze zrujnowanej klatki schodowej i pędem przebiegasz przez naznaczoną licznymi śladami wybuchów ulicę. Twoim celem jest położony kilkanaście metrów dalej kolejny budynek. Wpadasz do niego niczym burza, czując, jak ze strachu zesztywniały Ci palce. Mimo to niezgrabnie otwierasz torbę, aby upewnić się, czy żaden z listów nie ucierpiał. Na szczęście Twój cenny ładunek jest nienaruszony i na swoim miejscu.\n Na początku myślałeś sobie, że podczas powstania praca listonosza to nic ważnego i byłeś trochę zawiedziony, gdy nie pozwolono Ci walczyć. Jednak już po dostarczeniu pierwszej przesyłki zrozumiałeś, jak wiele radości możesz dać przerażonym ludziom. Mężczyzna, któremu dostarczyłeś list od jego córki, zaczął głośno płakać ze szczęścia - dziewczyna wciąż żyła. Pierwszy raz widziałeś, żeby dorosły tak płakał...\n Już od pierwszego dnia walk zauważyłeś, że wszystkie historie, które słyszałeś, wielkie słowa o bohaterstwie, patriotycznym poświęceniu, niezwykłej przygodzie i honorze giną gdzieś pośród odgłosów wystrzałów, wrzasków oraz płaczu rozpaczy. Kiedy to wszystko się skończy już nigdy, przenigdy nie będziesz chciał bawić się w wojnę...\n Nagłe słyszysz czyjś krzyk:\n - Hej, Zawiszaku!\n Dostrzegasz leżącego kilkadziesiąt metrów dalej, opartego o ścianę zawalonej kamienicy żołnierza AK. Chyba jest ranny. Chciałbyś mu pomóc, jednak podwórko, które musiałbyś przebiec jest pod obstrzałem wroga. To naprawdę wielkie ryzyko, a wciąż nie rozniosłeś jeszcze wszystkich listów.\n Postanawiasz zatem:\n",
+         "selectionList":[
+            {
+               "selectionContent":"Pomóc żołnierzowi.",
+               "nextPar":2
+            },
+            {
+               "selectionContent":"Najpierw zająć się rozniesieniem listów",
+               "nextPar":6
+            }
+         ]
+      },
+      {
+         "paragrafNumber":2,
+         "paragrafContent":"Wkładasz torbę pod ramię i pędzisz ile sił w nogach. Wokół Ciebie zaczynają świstać kule, z charakterystycznym stuknięciem odbijają się od bruku. Przypadasz do resztek kamiennego murka, przy którym siedzi ranny akowiec. Widzisz, że ma spieczone niemal do krwi wargi - na pewno jest bardzo spragniony. Chcesz mu ulżyć, sięgasz zatem po manierkę z wodą. Niestety, wyczerpałeś już swój zapas. Młody mężczyzna uśmiecha się, mówiąc:\n - To nic, trudno... Wojna...\n Jego mundur w okolicach prawego barku jest przesiąknięty skrzepłą krwią. Musi tu siedzieć co najmniej od rana. Widziałeś już wiele ran, wiesz więc, że ta nie jest śmiertelna. Dla tego nieszczęsnego, zapomnianego bohatera jest jeszcze nadzieja. Mógłbyś poszukać dla niego wody, ale to znacznie opóźniłoby roznoszenie poczty. A przecież dostałeś wyraźne rozkazy, żeby zajmować się tylko i wyłącznie swoimi obowiązkami.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Mimo to postanawiasz poszukać wody dla rannego mężczyzny",
+               "nextPar":3
+            },
+            {
+               "selectionContent":"Rozkaz to rozkaz, w końcu jesteś żołnierzem. Odchodzisz. ",
+               "nextPar":6
+            }
+         ]
+      },
+      {
+         "paragrafNumber":3,
+         "paragrafContent":"Pytasz rannego, gdzie w okolicy znajduje się jakaś czynna studnia. Z początku rzecz jasna nie chce powiedzieć i próbuje odwieść Cię od tego niebezpiecznego pomysłu, w końcu jednak wspomina o pewnym miejscu, oddalonym o jakieś pięć minut drogi stąd, na jednym ze rujnowanych podwórzy. Nieszczęśnik patrzy Ci głęboko w oczy. W spojrzeniu widzisz, jak bardzo jest wdzięczny za okazaną pomoc. Już wiesz, że uczucie towarzyszące ratowaniu życia drugiemu człowiekowi to coś, co pamięta się przez całe życie.\n Ruszasz w drogę, szybko przebiegając plac, tym razem o dziwo, nie będąc ostrzelanym przez nieprzyjaciela. Odgłosy wystrzału karabinów maszynowych dochodzą ze znacznie większej odległości. Domyślasz się, co to może oznaczać - zaraz zacznie się ostrzał artyleryjski. Nie wykluczone też, że gdzieś w okolicy czają się snajperzy.\n Postanawiasz pokonać odcinek dzielący Cię od studni:\n",
+         "selectionList":[
+            {
+               "selectionContent":"Biegnąc.",
+               "nextPar":5
+            },
+            {
+               "selectionContent":"Czołgając się. ",
+               "nextPar":4
+            }
+         ]
+      },
+      {
+         "paragrafNumber":4,
+         "paragrafContent":"Czołgasz się wytrwale, pamiętając o udzielanych Ci przez starszaków lekcji – najważniejsze to trzymać głowę nisko. Posuwasz się powoli, ale sukcesywnie do przodu, czując, jak wzniesiony przez Ciebie pył dokuczliwie podrażnia Twoje oczy, nos i usta. Pomimo tego po kilku minutach widzisz już studnię. Możesz...\n",
+         "selectionList":[
+            {
+               "selectionContent":"... wstać i przebiec dzielący Cię od niej odcinek.",
+               "nextPar":8
+            },
+            {
+               "selectionContent":"... znieść niewygody i nadal się czołgać.",
+               "nextPar":9
+            }
+         ]
+      },
+      {
+         "paragrafNumber":5,
+         "paragrafContent":"Zawsze byłeś dobrym biegaczem, jednak wydarzenia ostatnich tygodni sprawiły, że stałeś się prawdziwym mistrzem. W końcu stawką w tych „ulicznych wyścigach” było Twoje życie, którego wartość poznałeś, gdy tylko śmierć przestała być dla Ciebie jedynie zwykłym słowem, a stała się realnym zagrożeniem - częścią powstańczego dnia walczącej stolicy.\n Biegniesz wytrwale przed siebie, gdy nagle gwałtowny huk potwierdza Twoją teorię – niemiecka artyleria zaczęła swoją ponurą pieśń śmierci. Podmuch bliskiej eksplozji niemal zwala Cię na ziemię, nagrzane powietrze natychmiast wypełnia duszący pył. Do studni zostało jeszcze tylko jakieś pięćdziesiąt metrów... Przypominasz sobie, jak jeden ze starszaków radził Ci, żebyś zawsze w akcji „liczył metr za dwa”. \n",
+         "selectionList":[
+            {
+               "selectionContent":"Mimo to myślisz, że dałbyś radę błyskawicznie przebiec ten stosunkowo krótki odcinek. ",
+               "nextPar":10
+            },
+            {
+               "selectionContent":"Postanawiasz skręcić w stronę zgliszczy nadkładając w ten sposób drogi, ale zyskując względne bezpieczeństwo.",
+               "nextPar":11
+            }
+         ]
+      },
+      {
+         "paragrafNumber":6,
+         "paragrafContent":"Odchodzisz pośpiesznie, czując narastające poczucie winy. Nie wiesz dlaczego, ale masz dziwne wrażenie, że ranny żołnierz nie czuje do Ciebie pretensji. Każdy ma swoje rozkazy, a jego prędzej czy później ktoś odnajdzie i udzieli pomocy. Ty musisz skupić się na swoim zadaniu, w końcu niesiesz ludziom nadzieję, a ostatnimi czasy to najcenniejszy „towar” jaki można dostać w ogarniętej płomieniami walki stolicy.\n Nagle gdzieś za Tobą słyszysz potężny huk eksplozji - chyba zaczął się ostrzał artyleryjski. Odruchowy odwracasz się za siebie i z przerażeniem dostrzegasz, iż wybuch miał miejsce niedaleko miejsca, gdzie leżał ranny akowiec. Mężczyzna jest pod zwałami gruzu i rozpaczliwie próbuje się stamtąd wydostać. Pędzisz mu na pomoc, lecz gdy docierasz na miejsce, pojmujesz, iż nie ma dla niego nadziei. Nieszczęśnik ostatkami sił oswabadza rękę i wyciąga w Twoją stronę teczkę, która bezwładnie opada na ziemię. Dla niego ta wojna już się skończyła. Na zawsze.\n Zaglądasz ostrożnie do środka i uświadamiasz sobie, że wszedłeś w posiadanie rozkazów dla walczących w okolicy placówek. Nie wiesz, czy polecenia są nadal aktualne, jednak z całą pewnością nie możesz ich tutaj zostawić. Musisz jak najszybciej wrócić do Poczty Głównej i zgłosić komuś tę sprawę. Równie dobrze możesz zrobić to nieco później, ponieważ w najbliższej okolicy pewien starszy mężczyzna czeka na list od swojej wnuczki, który masz ze sobą. Mógłbyś dostarczyć ten jeden list, a potem szybko wrócić do siedziby Poczty Głównej mieszczącej się na placu Napoleona przy ulicy Wareckiej.\n Po chwili namysłu postanawiasz:\n",
+         "selectionList":[
+            {
+               "selectionContent":"Wrócić z rozkazami do Poczty Głównej. ",
+               "nextPar":16
+            },
+            {
+               "selectionContent":"Najpierw dostarczyć list.",
+               "nextPar":7
+            }
+         ]
+      },
+      {
+         "paragrafNumber":7,
+         "paragrafContent":"Docierasz pod wskazany adres, jednak budynek jest w fatalnym stanie. Nauczony doświadczeniem ostatnich dni schodzisz do piwnicy, gdzie zastajesz lokatorów tej na wpół zawalonej kamienicy. Wszyscy patrzą na Ciebie, gdy sięgasz do swojej torby i wyciągasz list. Odczytujesz nazwisko i rozglądasz się po zatłoczonym pomieszczeniu.\n - To ja! To na pewno od Ani! – z podłogi zrywa się starszy mężczyzna, śmiejąc się radośnie.\n Odwzajemniasz uśmiech i wręczasz mu przesyłkę. Teraz możesz spokojnie pomyśleć nad sprawą zdobytych rozkazów. Mógłbyś wrócić na Pocztę Główną albo udać się bezpośrednio do kwatery AK.\n Tylko gdzie dokładnie się ona znajduje? Próbujesz sobie przypomnieć dokładny adres, ale mimo usilnych prób wciąż masz nazwę ulicy tylko na końcu języka.\n - Przepraszam – zagadujesz grzecznie pochłoniętego czytaniem listu mężczyznę.\n Czekasz chwilę, aż staruszek zorientuje się, iż właśnie do niego mówisz i odłoży cenne wiadomości od wnuczki.\n - Tak, chłopcze?\n - Nie wie pan może gdzie znajduje się kwatera główna Armii Krajowej? Pan jest starszym człowiekiem, a oni wiedzą najwięcej, tak zawsze mówi mama – dodajesz po chwili.\n - Ha, ha! No nie zawsze tak jest młodzieńcze, ale akurat masz szczęście. To będzie ulica Świętokrzyska. Wiem, bo często słyszałem rozmowy partyzantów, którzy wpadają tu nieco odpocząć przed akcjami.\n - Dziękuję bardzo!\n Świetnie, teraz znasz już adres siedziby AK! W tej sytuacji dochodzisz do wniosku, iż najlepszym rozwiązaniem będzie:\n",
+         "selectionList":[
+            {
+               "selectionContent":"Wrócić na Pocztę Główną. ",
+               "nextPar":16
+            },
+            {
+               "selectionContent":"Odwiedzić siedzibę AK. ",
+               "nextPar":15
+            }
+         ]
+      },
+      {
+         "paragrafNumber":8,
+         "paragrafContent":"Zrywasz się z ziemi i niemal natychmiast padasz na nią z powrotem. Zostałeś zraniony przez zabłąkaną kulę, zresztą kto wie, może to nie przypadek, lecz podstępny atak snajpera? Masz szczęście, pocisk tylko zahaczył o Twoje ramię, zwykłe zadraśnięcie, ale naprawdę najadłeś się strachu...\n Czekasz chwilę, próbując odzyskać chociaż odrobinę zimnej krwi, po czym ruszasz ostrożnie w stronę studni. Gdy tam docierasz, napełniasz swoją manierkę, zachowując pewną ostrożność. Nagle zauważasz, że ktoś pozostawił tam teczkę podobną do Twojej. Co za nieostrożność! Bierzesz ją do ręki i porównujesz ze swoją – nie jest podobna, jest identyczna. Najwidoczniej powstańcza armia musiała skądś zdobyć cały zapas i teraz większość dostaje je podczas wykonywania swoich akcji. Nie masz jednak czasu, aby znaleźć jej właściciela. Uciekło Ci już sporo czasu, a przecież liczy się każda sekunda.\n Niedaleko od miejsca gdzie jesteś, wybucha pierwszy pocisk - nieprzyjaciel znów rozpoczął ostrzał artyleryjski. Jego działa z głośnym hukiem wyrzucają z luf pociski, które niszczą wszystko wokół.\n Gasisz pragnienie, zostawiając wszakże odpowiednią ilość wody dla rannego żołnierza, po czym podnosisz swoją torbę i ruszasz w drogę powrotną. Ta okolica zaczyna robić się stanowczo zbyt niebezpieczna...\n",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":13
+            }
+         ]
+      },
+      {
+         "paragrafNumber":9,
+         "paragrafContent":"Czołgasz się wytrwale i już po chwili jesteś na miejscu - udało się! Szybko nabierasz wody do swojej manierki, dostrzegając przy tym, że o studnię oparta jest torba podobna do Twojej. Co za głupota, jak ktoś mógł zostawić coś tak ważnego w takim miejscu! Będziesz musiał zgłosić to komuś z przełożonych...\n Nagle cały świat wiruje Ci przed oczyma, a niebo i ziemia zamieniają się miejscami. Czujesz, jak przez chwilę lecisz bezwładnie podrzucony do góry siłą wybuchu; nic nie słyszysz. Wszystko znika w tumanie kurzu, pyłu i dymu. Ból rozlewa się po całym Twoim ciele, jakbyś nagle wskoczył do wanny pełnej gorącej wody. Tracisz przytomność...\n Żyjesz. To pierwsza myśl, jaka przychodzi Ci po tym, jak otwierasz oczy. Nie wiesz, ile czasu minęło, jednak wciąż świeci słońce; jest dzień. To ten sam czy już następny? Dookoła panuje cisza... i nagle wracają dźwięki - ciche, stłumione jakby dobiegające zza ściany. Prawie straciłeś słuch. Jakiś rytmiczny łomot. Co to? Aha, to wystrzały... – myślisz. Niedaleko od siebie widzisz sporej wielkości krater. Swąd spalenizny.... Jesteś w piekle? Nie... To tylko walcząca Warszawa...\n Powoli dochodzisz do siebie, wciąż czując silne zawroty głowy. Mrugasz, z trudem powstrzymując opadanie powiek. Czujesz się naprawdę bardzo zmęczony. Nogi i ręce jak z ołowiu - tyle razy słyszałeś to określenie, a dopiero teraz naprawdę doświadczasz tego uczucia. Wszystkie ruchy wykonujesz z opóźnieniem, jakbyś lada chwila miał zasnąć. Musisz stąd uciec! Wstajesz i niemal natychmiast tracisz równowagę, jednak nie upadasz. Twardy z ciebie chłopak! – tata zawsze tak mówił. Bierzesz swoją torbę, która leży nieopodal i ruszasz przed siebie w stronę najbliższego budynku. Wprawdzie teraz to tylko sterta gruzów, jednak zapewni Ci ona ochronę przed zabłąkanymi kulami. Pokonując ból i strach, kulejąc nieco, ruszasz przed siebie.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":12
+            }
+         ]
+      },
+      {
+         "paragrafNumber":10,
+         "paragrafContent":"Niespodziewanie, tuż przed Tobą, powstaje gęsta ściana dymu, a gwałtownie wyrzucona w powietrze ziemia z impetem uderza Cię w twarz. Jednocześnie zdajesz sobie sprawę z dwóch faktów. Po pierwsze – lecisz w powietrzu; po drugie - niczego nie słyszysz. Potężne uderzenie w plecy - spadłeś. Zaczynasz się dusić - nie raz wstrzymywałeś z kolegami powietrze, mierząc przy tym czas, przez sekundę po odetkaniu nosa i otworzeniu ust czułeś coś podobnego. Teraz jednak od kilku sekund próbujesz zaczerpnąć powietrza, płuca palą Cię, jakby ktoś nalał tam wrzątku. Krzyczysz, czując, jak życiodajne powietrze wpływa przez usta. Możesz oddychać! Nagle zachodzi słońce, nie, to nie to. Świat ciemnieje... Widzisz go w czerni i bieli, zamazany, jakbyś patrzył przez brudną szybę. Biel przeistacza się w odcienie szarości, czerń napływa jakby od dołu i boków i okrywa wszystko. Straciłeś przytomność.\n Odzyskujesz ją dopiero w szpitalu, gdzie dowiadujesz się, że cudem uratowano Ci życie. Twoja walka dobiegła końca. Ach! Gdybyś tak mógł cofnąć czas!\n Zacznij od nowa i na przyszłość uważaj przy podejmowaniu decyzji. Pamiętaj też o tym, że Ty możesz sobie pozwolić na komfort „cofnięcia czasu”, jednak na polu walki wielu małych bohaterów i bohaterek nie miało takiej szansy. ",
+         "selectionList":[
+            {
+               "selectionContent":"Zacznij od nowa",
+               "nextPar":1
+            }
+         ]
+      },
+      {
+         "paragrafNumber":11,
+         "paragrafContent":"Biegniesz wśród gruzów okrężną drogą, praktycznie okrążając studnię. Widzisz też, jak jeden z pocisków wybucha nieopodal miejsca, przez które pierwotnie chciałeś przebiec. Jak dobrze, że wybrałeś okrężną trasę!\n Ukrywasz się za na wpół zawaloną ścianą, czekając na dobry moment, żeby dobiec do wody, gdy ktoś zbliża się do Twojego „posterunku”. Z ulgą zauważasz jednego ze starszaków, który wita Cię tradycyjnym:\n - Cześć młody.\n Przez chwilę rozmawiacie ze sobą, zauważając przy tym, iż macie prawie identyczne torby. Najwidoczniej powstańcza armia musiała skądś zdobyć cały zapas i teraz większość młodych dostaje je podczas wykonywania swoich „akcji”. Twój kompan po chwili odchodzi, a Ty podbiegasz do studni i szybko napełniasz manierkę wodą, po czym wracasz na swoją poprzednią pozycję. Na szczęście podczas tego krótkiego „rajdu” nie spotkała Cię żadna niemiła niespodzianka. Najwidoczniej walka znów przesunęła się w inną stronę. Odruchowo zaglądasz do swojej torby i zamierasz przestraszony. A niech to! Przez przypadek masz teraz torbę swojego starszego kolegi! W środku są jakieś dokumenty - to chyba rozkazy. Postanawiasz jak najszybciej wrócić do rannego żołnierza, on na pewno pomoże Ci zrozumieć, gdzie musisz zanieść te papiery!\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":14
+            }
+         ]
+      },
+      {
+         "paragrafNumber":12,
+         "paragrafContent":"Odpoczywasz pod prowizoryczną ochroną klatki schodowej zawalonego do połowy budynku. Czujesz się fatalnie, w dodatku zaczynasz odczuwać mdłości. Mimo, iż ból zdążył już ustąpić i prawdopodobnie nie jesteś poważnie ranny, to na pewno w najbliższym czasie będziesz odczuwał skutki wybuchu. Żeby zająć czymś myśli, zaglądasz do swojej torby, aby upewnić się, czy z listami wszystko w porządku.\n Nie ma ich! Najwidoczniej musiałeś zabrać przez pomyłkę tę torbę, którą ktoś zostawił przy studni. Niestety, teraz listy przepadły, zawiodłeś. Czujesz napływające do oczu łzy, ale powstrzymujesz się od płaczu. Musisz być dzielny! Przeglądasz pobieżnie dokumenty, w których posiadanie wszedłeś wbrew swej woli i przeżywasz kolejny, tym razem zupełnie inny wstrząs. To zaszyfrowane rozkazy! Nie masz czasu do stracenia, musisz jak najszybciej pokazać je któremuś z dowódców! Możesz…\n",
+         "selectionList":[
+            {
+               "selectionContent":"… poprosić o pomoc rannego żołnierza.",
+               "nextPar":14
+            },
+            {
+               "selectionContent":"… wrócić do siedziby Poczty Głównej.",
+               "nextPar":16
+            }
+         ]
+      },
+      {
+         "paragrafNumber":13,
+         "paragrafContent":"Po drodze zatrzymujesz się na chwilę pod ścianą jednego z zawalonych budynków. Powstrzymujesz się od podrapania uporczywie swędzącego ramienia. Mimo, że rana nie jest poważna, odczuwasz w niej nieprzyjemny, pulsujący ból. Zerkasz do swojej torby i zdumiony odkrywasz, iż nie ma w niej listów. Przez pomyłkę zabrałeś torbę spod studni! Uważnie oglądasz dokumenty, w których posiadanie wszedłeś. Czujesz rosnące podekscytowanie - to zaszyfrowane rozkazy! Na pewno walczący partyzanci czekają na nie z niecierpliwością, tylko gdzie je zanieść?\n Możesz …\n",
+         "selectionList":[
+            {
+               "selectionContent":"… poprosić o pomoc rannego żołnierza.",
+               "nextPar":14
+            },
+            {
+               "selectionContent":"… wrócić do siedziby Poczty Głównej. ",
+               "nextPar":16
+            }
+         ]
+      },
+      {
+         "paragrafNumber":14,
+         "paragrafContent":"Udaje Ci się wrócić do rannego żołnierza bez większych problemów. Na szczęście mężczyzna wciąż jest przytomny. Gdy ofiarujesz mu wodę z manierki, pije zachłannie, po czym bierze głęboki oddech i oświadcza słabym głosem:\n - Dziękuję, przyjacielu...\n Chyba jego rana jest znacznie poważniejsza, niż myślałeś. Żołnierz jest bardzo słaby i wygląda, jakby za chwilę miał stracić przytomność. Szybko relacjonujesz mu przebieg wyprawy po wodę, tłumacząc, w jaki sposób wszedłeś w posiadanie rozkazów.\n - Musisz... – mówienie sprawia nieszczęśnikowi coraz więcej trudności. – Musisz iść do naszej kwatery... Głównej... Jest na Świętokrzyskiej numer trzydzieści... yaey…\n Ostatnie słowo jest zupełnie niezrozumiałe. Twój rozmówca traci przytomność, a kto wie, czy nie znacznie więcej. Spoglądasz na nieruchomego akowca, zastanawiając się, czy od razu udać się pod wskazany przez niego adres, czy też najpierw odwiedzić swoich bezpośrednich przełożonych na Poczcie Głównej.\n Postanawiasz udać się... \n",
+         "selectionList":[
+            {
+               "selectionContent":"... na ulicę Świętokrzyską w poszukiwaniu Komendy Głównej AK.",
+               "nextPar":17
+            },
+            {
+               "selectionContent":"... do siedziby Poczty Głównej. ",
+               "nextPar":16
+            }
+         ]
+      },
+      {
+         "paragrafNumber":15,
+         "paragrafContent":"Im bardziej zbliżasz się do celu swojej podróży, tym więcej zniszczeń zastajesz. Przemierzając opustoszałe ulice i zburzone nalotami szkielety domów, próbujesz przypomnieć sobie, jak ta okolica wyglądała przed wybuchem powstania. Nigdy byś nie pomyślał, że w tak krótkim czasie okolica, którą znasz od dzieciństwa, zmieni się w połacie zwęglonych gruzów.\n Gdy docierasz na miejsce, widzisz jedynie zniszczony gmach i kilku biegających w okolicy żołnierzy. Jeden z nich przystaje na chwilę i woła w Twoim kierunku:\n - Hej, dzieciaku, zmiataj stąd! Cała kwatera już dawno przeniesiona. Zaraz będą Niemcy, uciekaj do schronu!\n Niestety, Twoje najgorsze obawy okazały się prawdziwe. Spóźniłeś się. Jedyne co możesz teraz zrobić to:\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Udać się na Pocztę Główną .",
+               "nextPar":16
+            },
+            {
+               "selectionContent":"Spytać kogoś w schronie o wskazówkę.",
+               "nextPar":17
+            }
+         ]
+      },
+      {
+         "paragrafNumber":16,
+         "paragrafContent":"Wracasz ostrożnie w stronę gmachu Poczty Głównej. Ostatecznie możesz po prostu przekazać te dokumenty komuś starszemu stopniem. Okazuje się jednak, iż nie będzie to wcale taka prosta sprawa. Już z pewnej odległości słyszysz odgłosy walki. Postanawiasz wejść przez zaplecze od strony ulicy Wareckiej. Niestety, budynek jest pod ostrzałem nieprzyjaciela. Oczywiście mógłbyś spróbować się przedrzeć do środka, lecz jest to bardzo ryzykowne. ",
+         "selectionList":[
+            {
+               "selectionContent":"Mimo to próbujesz swoich sił.",
+               "nextPar":31
+            },
+            {
+               "selectionContent":"Postanawiasz wrócić się do schronu w okolicy dawnej Kwatery Głównej AK.",
+               "nextPar":17
+            }
+         ]
+      },
+      {
+         "paragrafNumber":17,
+         "paragrafContent":"W prowizorycznym schronie siedzi kilka skulonych osób, wśród których dostrzegasz znajomego harcerza. Pozdrawiasz go radośnie i pytasz:\n - Wiesz gdzie jest teraz nowa komenda AK?\n - Na Mokotowskiej przy Wilczej, a bo co?\n - Nic, potrzebuję się tam dostać.\n - Żadna Mokotowska! – wtrąca się do rozmowy młody, żydowski partyzant. – Teraz kwatera jest na Piusa XI, jestem tego absolutnie pewien.\n - Piusa? – pyta z niedowierzanie harcerz.\n - Tak, Piusa, w gmachu małej Pasty. Będziesz musiał tam iść przez obszar bombardowania. To najszybsza droga.\n Dziękujesz obu chłopakom, którzy w międzyczasie zaczęli się zawzięcie kłócić o obecne położenie kwatery głównej i wychodzisz. Wahasz się komu możesz zaufać. Znasz harcerza i wiesz, że na pewno celowo nie wprowadziłby Cię w błąd. Mimo wszystko wydawał Ci się trochę zdezorientowany i przestraszony. Partyzant z kolei był bardzo, może nawet za bardzo, pewny siebie, ale sprawiał wrażenie znającego się na rzeczy. Musisz wybrać jedną z możliwości, a wydaje Ci się, że prawidłowy adres to:\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Mokotowska.",
+               "nextPar":18
+            },
+            {
+               "selectionContent":"Piusa XI",
+               "nextPar":19
+            }
+         ]
+      },
+      {
+         "paragrafNumber":18,
+         "paragrafContent":"Pokonując zmęczenie, ruszasz pod wskazany adres, mając nadzieję, że dokonałeś właściwego wyboru. Co za szalony dzień! W ciągu ostatniej godziny kilkakrotnie otarłeś się o śmierć, a najwyraźniej zanosi się na to, że to jeszcze nie koniec. Na szczęście zauważasz grupkę żołnierzy AK stojących przed budynkiem. Chyba mają odprawę. Czekasz kilka minut, po czym podchodzisz do jednego z nich i pytasz:\n - Na którym piętrze jest Kwatera Główna?\n - Masz pecha mały. Dowództwo od dwóch dni jest na Piusa XI.\n Krzywisz się rozgoryczony, grzecznie dziękując żołnierzowi za poświęcony Tobie czas i odchodzisz. Decydujesz się przejść fragment drogi ulicą Wilczą. Masz skrytą nadzieję, że dziś nie będzie bombardowania. A przynajmniej nie w tym rejonie...\n",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":19
+            }
+         ]
+      },
+      {
+         "paragrafNumber":19,
+         "paragrafContent":"Pędzisz najszybciej, jak potrafisz przez kompletnie wyludniony teren bombardowań. Zewsząd otacza Cię istne morze gruzów. Liczne kratery i porozrzucany bruk spowalnia Twoje tempo, mimo to starasz się jak najszybciej opuścić tę strefę. Nagle stajesz jak wryty, słysząc charakterystyczny ryk zbliżających się samolotów. Czujesz jak paraliżuje Cię strach. Zadzierasz głowę do góry i spoglądasz na zbliżającą się szybko eskadrę wrogich samolotów. Po chwili słyszysz już pierwsze odgłosy spadających bomb. Głośny świst pocisków wyrywa Cię z otępienia, zaczynasz biec, a chwilę później wokół Ciebie rozkwitają pierwsze wybuchy. Jeden z pocisków uderza w budynek dokładnie przed Tobą. Przerażony, otumaniony głośnym hukiem i uderzeniem gorącego powietrza stoisz bez ruchu, patrząc na walący się na Ciebie spory kawałek ściany. Nie możesz się ruszyć, strach całkiem Cię sparaliżował. W akcie rozpaczy zamykasz oczy i niezdarnie zasłaniasz głowę rękoma, czekając na zabójcze uderzenie. Po około sekundzie czujesz w rawdzie silne uderzenie, ale w prawy bok i jest to coś zdecydowanie bardziej miękkiego niż cegły. Padasz na ziemię, słysząc głuchy huk roztrzaskującej się o bruk ściany. Chcesz otworzyć oczy, lecz w tej samej chwili ulatuje z Ciebie świadomość. Zemdlałeś.",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":20
+            }
+         ]
+      },
+      {
+         "paragrafNumber":20,
+         "paragrafContent":"Odzyskujesz przytomność ocucony wodą, którą ktoś właśnie wylał Ci na twarz. Podnosisz powoli powiekę i natychmiast otwierasz szeroko oczy zdumiony tym, co ujrzałeś. To jakiś cud! Nad Tobą nachyla się anioł! Na czole ma przewiązaną białą chustę, spod której wystają niesfornie kosmyki jasnych włosów. Delikatne rysy idealnie pasują do okrągłej, zarumienionej buzi. Mrużysz oczy oświecony niebiańskim blaskiem, w tej samej chwili zdając sobie sprawę z tego, że to nic innego jak słońce. Przenosisz wzrok na anioła. Nadal jest nieziemsko piękny, lecz wiesz już, iż to nie wysłannik z nieba, tylko dziewczyna, sanitariuszka mniej więcej w Twoim wieku. Zdezorientowany zrywasz się z ziemi zanim nieznajoma zdążyła się odchylić, więc uderzacie o siebie czołami, oboje lądując na bruku.\n - Ładne podziękowanie za ratunek! – narzeka dziewczyna, chociaż śmieje się przy tym wesoło.\n – Jestem Zosia, a ty?\n - Janek.\n - Miło mi. Wiesz, musisz bardziej uważać, byłby z ciebie placek!\n - Lubię placki.\n - Ale chyba nie z samego siebie…\n - Lepiej stąd chodźmy, jest stanowczo zbyt niebezpiecznie. A ja jeszcze muszę dostać się na Piusa XI.\n - Oj, to w przeciwną stronę niż ja... A już myślałam, że może ty mi pomożesz, szkoda.\n ",
+         "selectionList":[
+            {
+               "selectionContent":"- A jaki masz problem? ",
+               "nextPar":21
+            },
+            {
+               "selectionContent":"- Niestety, muszę wypełnić bardzo ważne zadanie. Do widzenia Zosiu! ",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":21,
+         "paragrafContent":"- Wiesz, to koszmar, Ci wszyscy ranni – mówi z przejęciem dziewczyna. – Gdybym miała chociaż trochę leków od Niemców.\n - Od Niemców? – pytasz zdziwiony.\n - Lek to lek. Żołnierze walczą, nie lekarze – stwierdza rezolutnie. – Oni tam mają mnóstwo cennych lekarstw. Gdyby tak zakraść się do chociaż jednego składziku i trochę ich wynieść. Nawet kilka buteleczek penicyliny.\n - To ważny lek?\n - O tak! Bardzo! Dzięki temu wielu naszych chłopców by przeżyło...\n ",
+         "selectionList":[
+            {
+               "selectionContent":"- Wiesz, mogę specjalnie dla ciebie zdobyć tę całą pent... y... penicylinę! - odpowiadasz natychmiast.",
+               "nextPar":22
+            },
+            {
+               "selectionContent":"- Chętnie bym ci pomógł, ale muszę jak najszybciej iść na komendę AK.",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":22,
+         "paragrafContent":"- Naprawdę? Mógłbyś?!\n - Oczywiście! Jestem żołnierzem, moim obowiązkiem jest pomaganie ludziom.\n - To wspaniale! Chodź za mną. Znam jeden słabo strzeżony składzik z lekami!\n Dziewczyna zaczyna biec, nie pozostaje Ci nic innego, jak ruszyć za nią. Po około pięciu minutach zwalniacie nieco tempo i zaczynacie się ostrożnie skradać. Czujesz jak szybciej bije Ci serce, ale nie dajesz tego po sobie poznać. Zosia jest pod wrażeniem Twojej odwagi. Lepiej żeby tak zostało...\n Po pewnym czasie Twoja przewodniczka zatrzymuje się i kładzie palec na ustach. Potem ostrożnie wystawia głowę zza rogu, a Ty idziesz w jej ślady. Pokazuje Ci mały, drewniany składzik ustawiony przy jednej z ocalałych ścian kamienicy. Ulica jest pusta, jednak być może gdzieś w okolicy kręci się niemiecki patrol. Musisz naprawdę dobrze pomyśleć, jak rozegrać tę sytuację na swoją korzyść.\n Do głowy przychodzą Ci trzy pomysły:\n",
+         "selectionList":[
+            {
+               "selectionContent":"Wykorzystać okazję i natychmiast iść do środka.",
+               "nextPar":23
+            },
+            {
+               "selectionContent":"Zbić okienko w magazynie i zobaczyć, co się stanie. ",
+               "nextPar":24
+            },
+            {
+               "selectionContent":"Tutaj poczekać na rozwój sytuacji.  ",
+               "nextPar":25
+            }
+         ]
+      },
+      {
+         "paragrafNumber":23,
+         "paragrafContent":"Idziesz śpiesznie w stronę składziku, gdy nagle ze środka wychodzi zdziwiony, niemiecki żołnierz. Odwracasz się na pięcie i zaczynasz uciekać. Słyszysz terkot wystrzałów z karabinu maszynowego i głośny krzyk Zosi. Przewracasz się na ziemię, nie do końca zdając sobie sprawę z tego, co się stało. Chyba dostałeś...\n Zacznij od nowa i na przyszłość uważaj przy podejmowaniu decyzji. Pamiętaj też o tym, że Ty możesz sobie pozwolić na komfort „cofnięcia czasu”, jednak na polu walki wielu małych bohaterów i bohaterek nie miało takiej szansy.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Zacznij od nowa",
+               "nextPar":1
+            }
+         ]
+      },
+      {
+         "paragrafNumber":24,
+         "paragrafContent":"Podnosisz jeden z licznych, walających się wszędzie kawałków bruku i bierzesz spory zamach. W swoim życiu sporo narzucałeś się kamieniami, jednak nigdy byś nie przypuszczał, że ta umiejętność może kiedyś pomóc Ci przy ratowaniu ludzkiego życia. Doskonale! Brzęk tłuczonego szkła zwiastuje, iż twój pocisk trafia prosto w cel. Zaraz po tym rozlega się wściekły okrzyk Niemca. Ze środka natychmiast wypada hitlerowiec i oddaje krótką serię z karabinu maszynowego w powietrze.\n Niedługo cała okolica zaroi się od Niemców - to był zły pomysł. Nie ma już sensu, abyście nadal tu stali, po cichu odchodzicie w stronę komendy głównej Armii Krajowej.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":25,
+         "paragrafContent":"Czekasz cierpliwie, czując na uchu oddech Zosi, która niecierpliwie wspina Ci się na plecy, żeby coś zobaczyć. Odsuwasz się nieco, aby zrobić dla niej miejsce. Przez kilka minut bacznie obserwujecie składzik, gdy nagle ze środka wychodzi niemiecki żołnierz. Mężczyzna wyciąga z kieszonki munduru papierośnicę i zapala jeden z papierosów, po czym idzie spokojnie przed siebie i po chwili znika za rogiem. Teraz! To Twoja szansa!\n Skradasz się szybko w stronę wejścia i niepostrzeżenie wślizgujesz się do środka. Pośpiesznie przeglądasz półki w poszukiwaniu penicyliny. Niestety, najwidoczniej występuje pod inną nazwą. Być może to ampułki oznaczone jako ANTIBIOTIKUM, albo te drugie, tajemnicze WASSERSTOFFPEROXYD. Bierzesz kilka ampułek jednego rodzaju (zastanów się, które wybierasz) i już masz wyjść, gdy z zewnątrz dobiegają Cię liczne głosy.\n Przed wejściem do składziku zatrzymała się grupa Niemców!\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":26
+            }
+         ]
+      },
+      {
+         "paragrafNumber":26,
+         "paragrafContent":"Okazuje się, że opuszczenie składziku jest znacznie trudniejszą sprawą, niż było dostanie się do jego środka. Na zewnątrz aż roi się od Niemców, a przecież każdy z nich może wejść do środka. Sytuacja jest naprawdę nieciekawa, jednak skoro powiedziało się „A”, trzeba też powiedzieć „B”. Nie masz ochoty się poddać, a więc masz do wyboru tylko dwie możliwości: ",
+         "selectionList":[
+            {
+               "selectionContent":"Zaryzykować i po prostu wybiec na zewnątrz, uciekając ile tylko sił w nogach. To na pewno zaskoczy Niemców! ",
+               "nextPar":27
+            },
+            {
+               "selectionContent":"Ukryć się wewnątrz i poczekać na dalszy rozwój wypadków. A może znajdziesz tutaj jeszcze coś ciekawego? ",
+               "nextPar":28
+            }
+         ]
+      },
+      {
+         "paragrafNumber":27,
+         "paragrafContent":"Wypadasz na zewnątrz i mijasz kompletnie zaskoczonych Niemców, pędząc w stronę, gdzie czeka na ciebie Zosia. Nagle dziewczyna wyskakuje zza rogu i czymś rzuca. Przerażony dostrzegasz przelatujący Ci nad głową granat! Wybuch powala Cię z nóg, jednak był na tyle odległy, że poza irytującym brzęczeniem w uszach nic Ci się nie stało. Z okrzyków za sobą wnioskujesz, iż przeciwnikom też nic, poza szokiem, nie dolega.\n Uciekasz z dziewczyną ile sił w nogach, aż ponownie trafiacie do strefy kontrolowanej przez partyzantów. Tam odpoczywacie, śmiejąc się głośno, żeby przegnać paniczny strach, który Was ogarnął. Sięgasz do kieszeni, lecz niestety trafiasz tylko na kawałki szkła, podczas upadku potłukłeś ampułki. Aż dziw, że wcześniej tego nie poczułeś. Dziewczyna jest wprawdzie nieco zawiedziona, ale i tak nagradza Cię buziakiem za odwagę. Odpoczywacie jeszcze trochę, po czym ruszacie do kwatery AK. Czas abyś w końcu dostarczył dokumenty dowództwu.\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":28,
+         "paragrafContent":"Niestety, nie znajdujesz tutaj nic ciekawego. Zza drzwi dobiega rytmiczny odgłos kroków, prawie krzyczysz, gdy drzwi zaczynają skrzypiec. Ktoś tu wchodzi! Kryjówka, musisz jakąś znaleźć! Tylko gdzie?! Dopiero po chwili orientujesz się, że to tylko jeden z żołnierzy oparł się o drzwi. Serce bije Ci jak oszalałe, czujesz jak oblewa Cię pot. Jeszcze nigdy tak się nie bałeś!\n Nagle słyszysz głośny huk! Ktoś rzucił granat! Na zewnątrz wybucha panika, to Twoja szansa! Wypadasz przez drzwi jak burza i pędzisz przed siebie odprowadzany wściekłymi okrzykami. Za rogiem cierpliwie czeka Zosia, pewnie to ona rzuciła granat.\n Uciekacie ile sił w nogach, dopóki znów nie trafiacie na teren opanowany przez żołnierzy AK. Tam odpoczywacie, z trudem łapiąc oddech. To dopiero była szalona ucieczka! Po chwili odkasłujesz teatralnie, po czym triumfalnie sięgasz do kieszeni i wyciągasz stamtąd trzy kapsułki oznaczone jako: \n",
+         "selectionList":[
+            {
+               "selectionContent":"ANTIBIOTIKUM",
+               "nextPar":29
+            },
+            {
+               "selectionContent":"WASSERSTOFFPEROXYD. ",
+               "nextPar":30
+            }
+         ]
+      },
+      {
+         "paragrafNumber":29,
+         "paragrafContent":"Dziewczyna przygląda się ampułkom, potem wiesza się Tobie na szyi i całuje w policzek, mówiąc:\n - Jesteś wspaniały! Dokładnie o to mi chodziło! Uratowałeś życie wielu ludziom!\n Nagle robi Ci się strasznie gorąco, ciekawe czy się zaczerwieniłeś? Masz nadzieję, że nie. W ogóle chcesz sprawiać wrażenie, jakby buziaki od dziewczyn były dla Ciebie codziennością. Jakoś średnio się to udaje i żeby ukryć swoje zmieszanie, mówisz:\n - Gdyby nie ty, nie wiedziałbym o takim leku.\n - A ja bez ciebie nigdy bym go nie zdobyła. Jesteś wielki, naprawdę!\n Śmiejecie się radośnie, na moment zapominając o otaczającej wojennej rzeczywistości. Wkrótce odgłos wybuchu przypomina Wam jednak, gdzie jesteście. Trudno zapomnieć o przerażających realiach, gdy jęki rannych i straszące na wpół zburzonymi ścianami budynki, wciąż o tym przypominają. Teraz, gdy zdobyłeś dla Zosi leki, możecie udać się do kwatery AK. Żegnasz się z dziewczyną, która wyraźnie posmutniała.\n - Hej, spotkamy się jeszcze, co? – rzuca za Tobą.\n - Jasne! Znajdę cię. Na pewno nie ma drugiej tak ładnej sanitariuszki!\n Machasz na pożegnanie i odprowadzony śmiechem Zosi ruszasz przed siebie.\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":30,
+         "paragrafContent":"Niestety, okazuje się, że ta tajemnicza nazwa oznacza po prostu wodę utlenioną. Zosia wprawdzie jest rozczarowana, jednak i tak serdecznie Ci dziękuje za okazaną pomoc. Rozmawiacie jeszcze przez chwilę, po czym każde z Was odchodzi w swoją stronę.\n ",
+         "selectionList":[
+            {
+               "selectionContent":"Przejdź dalej",
+               "nextPar":32
+            }
+         ]
+      },
+      {
+         "paragrafNumber":31,
+         "paragrafContent":"Pędzisz przed siebie, gdy nagle orientujesz się, że leżysz na bruku. Natychmiast po całym ciele, poczynając od prawego boku, rozlewa ci się ciepło, a zaraz po nim ból.\n Dostałeś! Och, gdybyś tylko mógł cofnąć czas!\n Zacznij od nowa i na przyszłość uważaj przy podejmowaniu decyzji. Pamiętaj też o tym, że Ty możesz sobie pozwolić na komfort „cofnięcia czasu”, lecz na polu walki wielu małych bohaterów i bohaterek nie miało takiej szansy.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Zacznij od nowa",
+               "nextPar":1
+            }
+         ]
+      },
+      {
+         "paragrafNumber":32,
+         "paragrafContent":"W końcu udaje Ci się dotrzeć do celu. Masz tylko nadzieję, że nie straciłeś po drodze zbyt wiele czasu.\n Zaczepiasz jednego z powstańców i pytasz grzecznie:\n - Przepraszam znalazłem jakieś dokumenty...\n - Wybacz mały, ale bardzo się śpieszę. Poszukaj lepiej Granicę, on zawsze ma dla was czas!\n Dziękujesz za radę i zaczynasz wypytywać ludzi o „Granicę”. Okazuje się, że jest to jeden z pseudonimów Kazimierza Grendy. To właśnie dzięki jego pomysłowi poczty polowej „Zawiszacy” tacy jak Ty mogli zacząć roznosić listy. Każdy go tu zna, więc szybko udaje Ci się go odszukać i opowiedzieć o swojej przygodzie. Mężczyzna z poważną miną przegląda przyniesione przez Ciebie dokumenty i nagle kładzie Ci rękę na ramieniu, mówiąc uroczyście:\n - Świetna robota, żołnierzu! Wiele z tych dokumentów nadal jest aktualna. Zaraz podeślę kogoś, żeby to rozniósł naszym walczącym chłopcom.\n - Dziękuję. Bardzo chciałem pomóc, chociaż jestem tylko Zawiszakiem.\n - Nie tylko, mój drogi. Każde zadanie jest ważne, bo służy dobru nas wszystkich. A ty udowodniłeś dziś swoją odwagę. Napisz na kartce swoje imię, nazwisko, funkcję i oddział, któremu podlegasz. W nagrodę załatwię ci przejście do Szkół Bojowych. Co ty na to?\n - Hurra! – wykrzykujesz radośnie.\n Grenda śmieje się głośno i czochra Ci włosy, mówiąc: Polska krew!.\n Tym oto sposobem zostałeś awansowany, a co za tym idzie, czekają Cię teraz trudniejsze, o wiele bardziej niebezpieczne zadania. Gratuluję!\n Koniec.\n",
+         "selectionList":[
+            {
+               "selectionContent":"Zacznij od nowa",
+               "nextPar":1
+            },
+            {
+               "selectionContent":"Zakończ",
+               "nextPar":0
+            }
+         ]
+      }
+   ]
+}
