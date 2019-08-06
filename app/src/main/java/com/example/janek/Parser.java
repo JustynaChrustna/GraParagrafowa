@@ -42,6 +42,7 @@ public class Parser {
                 Paragraf ParagrafFromJSON= new Paragraf(paragrafNumber, paragrafContent, selectionListForParagraf);
                 paragrafList.add(ParagrafFromJSON);
             }
+            //komentarz
 
 
 
